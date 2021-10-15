@@ -10,6 +10,7 @@ public class Parfait{
 			}
 		}
 
+
 		if(som==nbP){
 			System.out.println("Le nombre " + nbP + " est parfait");
                 }
